@@ -1,11 +1,11 @@
 ---
 title: "Jaswanth Reddy Kommuru"
-image: images/jaswanth.jpg
+image: images/jaswanth.png
 about:
   template: solana
   image-width: 15em
   image-shape: round
-  image: images/jaswanth.jpg
+  image: images/jaswanth.png
   links:
     - icon: github
       text: Github
