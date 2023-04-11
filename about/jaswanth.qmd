@@ -1,15 +1,15 @@
 ---
-title: "Rahul"
-image: images/rahul.jpg
+title: "Jaswanth Reddy Kommuru"
+image: images/JaswanthReddyKommuru.jpeg
 about:
   template: solana
   image-width: 15em
   image-shape: round
-  image: images/rahul.jpg
+  image: images/JaswanthReddyKommuru.jpeg
   links:
     - icon: github
       text: Github
-      href: https://github.com/github_user
+      href: https://github.com/jaswanth0206
 ---
 
 ##Instructions
@@ -23,19 +23,19 @@ about:
   - commit to github and submit pull request
 
 ## Education/Work Background
-
+Completed undergrad in computer science and currently pursuing masters at UMASS Amherst.
 
 ## R experience
-
+I have no experience in R programming.
 
 ## Research interests
-
+Software Development
 
 ## Hometown
-
+Hyderabad, India
 
 ## Hobbies
-
+Watching travel vlog's and getting to know about the current trending topics.
 
 ## Fun fact
-
+I am fascinated by travel because I learn about new cultures and meet people.
