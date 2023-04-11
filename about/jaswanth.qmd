@@ -1,11 +1,11 @@
 ---
 title: "Jaswanth Reddy Kommuru"
-image: images/jaswanth.png
+image: images/JaswanthReddyKommuru.jpeg
 about:
   template: solana
   image-width: 15em
   image-shape: round
-  image: images/jaswanth.png
+  image: images/JaswanthReddyKommuru.jpeg
   links:
     - icon: github
       text: Github
@@ -23,10 +23,10 @@ about:
   - commit to github and submit pull request
 
 ## Education/Work Background
-Completed undergrad in computer science and currently pursuing masters at UMass Amherst.
+Completed undergrad in computer science and currently pursuing masters at UMASS Amherst.
 
 ## R experience
-I have no experince in R programming.
+I have no experience in R programming.
 
 ## Research interests
 Software Development
@@ -35,7 +35,7 @@ Software Development
 Hyderabad, India
 
 ## Hobbies
-Watching travel vlogs and getting to know about the current trending topics
+Watching travel vlog's and getting to know about the current trending topics.
 
 ## Fun fact
 I am fascinated by travel because I learn about new cultures and meet people.
