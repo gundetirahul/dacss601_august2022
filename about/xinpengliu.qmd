@@ -9,6 +9,6 @@ about:
   links:
   - icon: github
     text: Github
-    herf: https://github.com/
+    herf: https://github.com/LiuDanDanYA
 editor: visual
 ---
