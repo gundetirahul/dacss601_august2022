@@ -1,0 +1,14 @@
+---
+title: "Xinpeng Liu"
+image:images/xinpengliu.jpeg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image:images/xinpengliu.jpeg
+  links:
+  - icon: github
+    text: Github
+    herf: https://github.com/
+editor: visual
+---
